@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = ""
+BOT_TOKEN = "1648156512:AAHeS7407ALKJRgyEruk_3oFFttu6XHXuXA"
 GDRIVE_FOLDER_ID = ""
 # Default folder id.
 OWNER_ID = 1
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [123,456,789]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "postgres://qjaifnkzgfolwy:8b5fe25dc5999cca5d49d3fa2088d78009c08d15ab3adab6bebcb50342209de6@ec2-52-72-162-207.compute-1.amazonaws.com"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
